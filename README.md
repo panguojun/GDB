@@ -1,4 +1,4 @@
-**GeometricDB: A Lightweight Geometric Database with Built-in Algorithms**
+##**GeometricDB: A Lightweight Geometric Database with Built-in Algorithms**
 
 GeometricDB is a high-performance, lightweight database system designed specifically for geometric data processing. It seamlessly integrates advanced geometric algorithms directly into the database engine, allowing users to perform complex spatial computations using simple SQL queries.
 
